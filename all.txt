@@ -6,3 +6,5 @@ alicia
 둘다 지웠어.
 
 new에서 추가함.
+
+alicia에서 추가함.
