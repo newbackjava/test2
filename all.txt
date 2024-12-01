@@ -3,4 +3,4 @@ all
 
 alicia
 
-new1
+둘다 지웠어.
