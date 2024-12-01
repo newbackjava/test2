@@ -3,4 +3,4 @@ all
 
 alicia
 
-alicia2
+둘다 지웠어.
