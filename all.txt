@@ -10,5 +10,3 @@ all_new
 all_pc_go!!
 
 all_pc_go2!!
-
-
