@@ -1,38 +1,25 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+📢 변경 사항
+- 이 이슈에서 수행한 주요 변경 사항을 간략하게 설명합니다.
 
----
+            ### 🔧 이슈 제목
+             - 
 
-**버그 설명**
-A clear and concise description of what the bug is.
+            ### 📝 설명
+            - 변경된 코드의 동작을 설명합니다.
+            - 코드의 주요 로직 또는 접근 방법에 대해 간략히 서술합니다.
+            - 변경된 내용이 기존 코드에 어떤 영향을 미치는지 설명합니다.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+            ### ✅ 확인 사항
+            - [ ] 코드가 정상적으로 동작하는지 확인했습니다.
+            - [ ] 테스트를 추가했습니다.
+            - [ ] 문서화가 필요한 변경 사항을 문서화했습니다.
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+            ### 🛠️ 해결 방법
+            - 변경된 기능에 대해 어떻게 테스트를 실행할 수 있는지 설명합니다.
+            - 예: `npm test`로 테스트를 실행합니다.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+            ### 📸 스크린샷 (옵션)
+            - 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+            ### ⚠️ 기타사항
+            - 
