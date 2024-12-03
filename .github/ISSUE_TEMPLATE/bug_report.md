@@ -1,3 +1,12 @@
+---
+name: Bug report
+about: Create a report to help us improve
+title: ''
+labels: bug
+assignees: newbackjava
+
+---
+
 📢 변경 사항
 - 이 이슈에서 수행한 주요 변경 사항을 간략하게 설명합니다.
 
@@ -22,4 +31,4 @@
             - 
 
             ### ⚠️ 기타사항
-            - 
+            -
